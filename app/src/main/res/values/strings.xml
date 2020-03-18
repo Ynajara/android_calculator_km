@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">fatec_ipi_pdm_km_calculator</string>
+    <string name="locations_here">Locations Here</string>
+    <string name="permission_gps">Permission GPS</string>
+    <string name="turn_on_gps">Turn on GPS</string>
+    <string name="start">Start Run</string>
+    <string name="finish">Finish Run</string>
+    <string name="no_gps_no_app">No GPS, no app.</string>
+
+</resources>
